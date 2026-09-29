@@ -1,1 +1,4 @@
 Materi: Praktik GitHub
+Nama: Elsirandalia
+Project: Belajar GitHub
+Tujuan: Mempelajari GitHub
